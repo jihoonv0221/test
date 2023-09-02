@@ -1,2 +1,2 @@
--linux command: ls -, pwd, ls-al, cd, cd ..
--git command : git init, git status, git add, git commit-m "version memo", git config --global user., git log
+-orientation, python interpreter installation, pycharm installation
+-hello py, hello_name, fahrenheit_ to _ celsius
