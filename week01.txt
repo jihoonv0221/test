@@ -1,0 +1,3 @@
+week01
+-linux command: ls -, pwd, ls-al, cd, cd ..
+-git command : git init, git status, git add, git commit-m "version memo", git config --global user., 
